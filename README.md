@@ -2,7 +2,7 @@
 
 This project uses OpenAI's GPT-3.5 Turbo model to extract financial data from news articles and retrieve relevant information such as company name, stock symbol, revenue, net income, and earnings per share (EPS).
 
-![Overview Image]([financial data pic.png](https://github.com/Mohshaikh23/Financial-Data-Extraction/blob/main/financial%20data%20pic.png?raw=true))
+![Overview Image](https://github.com/Mohshaikh23/Financial-Data-Extraction/blob/main/financial%20data%20pic.png?raw=true)
 
 
 ## Usage
